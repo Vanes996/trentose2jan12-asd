@@ -3,8 +3,6 @@ const bodyParser = require('body-parser');
 const app = express();
 const getArea = require('./area.js')
 
-
-
 app.use(bodyParser.json());
 
 
