@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "area.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^23.6.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vanes996/trentose2jan12-asd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Vanes996/trentose2jan12-asd/issues"
+  },
+  "homepage": "https://github.com/Vanes996/trentose2jan12-asd#readme",
+  "description": ""
+}
