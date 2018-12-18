@@ -97,6 +97,6 @@ test('object', () => {
 })
 
 test('two pars instead of one', () => {
-  array=[2, 3], 5
+  array=[[2, 3], 5]
   expect(getArea(array)).toBe(-1)
 });
