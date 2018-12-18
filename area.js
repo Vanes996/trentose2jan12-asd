@@ -2,6 +2,7 @@
 var array = [14, 2]
 getArea(array)
 
+
 function getArea(array) {
   var l1 = array[0]
   var l2 = array[1]
